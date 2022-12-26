@@ -3,3 +3,6 @@ GET http://localhost:8080/store/order/add?id=1,2,3,4
 
 ### получаем корзину
 GET http://localhost:8080/store/order/get
+
+### собираем корзину
+GET http://localhost:8080/store/order/add?id=1,2
